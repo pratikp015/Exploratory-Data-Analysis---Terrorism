@@ -1,3 +1,6 @@
+### Task 4 :- Exploratory Data Analysis (EDA) - Terrorism
+### The Sparks Foundation Internship Program
+### Data Science & Business Analytics Internship
 ### # Task-4 : Exploratory Data Analysis - Terrorism (Level - Intermediate)
 1. Perform 'Exploratory Data Analysis' on dataset 'Global Terrorism'
 2. As a security/defense analyst, try to find out the hot zone of terrorism.
